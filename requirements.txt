@@ -1,5 +1,8 @@
-tensorflow
-numpy
-pillow
-matplotlib
-scikit-learn
+tensorflow-cpu==2.20.0
+keras==3.11.3
+numpy==2.3.5
+pillow==12.3.0
+matplotlib==3.10.8
+scikit-learn==1.8.0
+notebook==7.4.5
+ipykernel==6.30.1
