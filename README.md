@@ -101,6 +101,12 @@ resizing and normalization are embedded in its graph. The notebook's
 - [TensorFlow transfer-learning guide](https://www.tensorflow.org/tutorials/images/transfer_learning)
 - [Keras MobileNetV2 API](https://keras.io/api/applications/mobilenet/)
 
+## Development context
+
+This portfolio experiment was revised with AI coding assistance for the input pipeline, checkpoint checks, evaluation, notebook execution, and documentation. It uses Keras's pretrained MobileNetV2 implementation and official CIFAR-10 data. The recorded three-epoch subset run is the evidence for this version; a larger benchmark remains a separate experiment.
+
+Recorded checks were run in a hosted Linux CPU environment. See the [portfolio development notes](https://github.com/KianaAbrisham/KianaAbrisham/blob/main/docs/DEVELOPMENT.md) for execution provenance and the scope of AI assistance.
+
 ## License
 
 Repository code uses the existing [MIT license](LICENSE). Dataset and pretrained
